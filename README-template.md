@@ -60,8 +60,6 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 
 ## Author
-
-- Website - [A7HMD](https://www.your-site.com)
 - Frontend Mentor - [@0xA7MD1](https://www.frontendmentor.io/profile/0xA7MD1)
 
 
